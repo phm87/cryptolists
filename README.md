@@ -27,7 +27,7 @@
 | I0C   | i0coin
 | STRAT | Stratis
 | BCA ? | Bitcoin Atom  | https://github.com/bitcoin-atom/lightning  | https://github.com/bitcoin-atom/lnd
-| DCR   | Decred   | 
+| DCR   | Decred   |   | https://github.com/decred/dcrlnd
 
 Sources:
 - https://bitcointalk.org/index.php?topic=1777136.0
