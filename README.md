@@ -26,10 +26,15 @@
 | IXC   | iXcoin
 | I0C   | i0coin
 | STRAT | Stratis
+| BCA ? | Bitcoin Atom  | https://github.com/bitcoin-atom/lightning  | https://github.com/bitcoin-atom/lnd
+| DCR   | Decred   | 
 
 Sources:
 - https://bitcointalk.org/index.php?topic=1777136.0
 - https://bitcointalk.org/index.php?topic=1891745.0
+- Forks/network on github's of lnd and c-lightning
+- https://twitter.com/Beetcoin/status/984572888194977792
+
 
 ## Exchange lists
 https://github.com/estherleongym/cryptoexchange/blob/master/README.md
@@ -38,3 +43,6 @@ ccxt
 
 ## DEX
 https://www.xbtfreelancer.com/prj/8414/need-decentral-exchange-based-on-bitshares-like-crypto-bridgeorg
+
+## Compatibility between coins for onchain and offchain swaps:
+https://swapready.net
